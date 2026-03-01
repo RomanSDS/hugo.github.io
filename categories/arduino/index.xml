@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Arduino on D.NotReadyYet</title>
+    <link>https://www.example.com/categories/arduino/</link>
+    <description>Recent content in Arduino on D.NotReadyYet</description>
+    <generator>Hugo -- 0.155.3</generator>
+    <language>ru-RU</language>
+    <lastBuildDate>Mon, 01 Apr 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://www.example.com/categories/arduino/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Моя статья</title>
+      <link>https://www.example.com/posts/arduino/tags/</link>
+      <pubDate>Mon, 01 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>https://www.example.com/posts/arduino/tags/</guid>
+      <description>&lt;p&gt;trtyrtyrtty&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

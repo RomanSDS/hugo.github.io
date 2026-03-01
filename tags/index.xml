@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Tags on D.NotReadyYet</title>
+    <link>https://www.example.com/tags/</link>
+    <description>Recent content in Tags on D.NotReadyYet</description>
+    <generator>Hugo -- 0.155.3</generator>
+    <language>ru-RU</language>
+    <lastBuildDate>Tue, 03 Feb 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://www.example.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Arduino</title>
+      <link>https://www.example.com/tags/arduino/</link>
+      <pubDate>Tue, 03 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>https://www.example.com/tags/arduino/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Ino</title>
+      <link>https://www.example.com/tags/ino/</link>
+      <pubDate>Tue, 03 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>https://www.example.com/tags/ino/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Тег1</title>
+      <link>https://www.example.com/tags/%D1%82%D0%B5%D0%B31/</link>
+      <pubDate>Mon, 01 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>https://www.example.com/tags/%D1%82%D0%B5%D0%B31/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Тег2</title>
+      <link>https://www.example.com/tags/%D1%82%D0%B5%D0%B32/</link>
+      <pubDate>Mon, 01 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>https://www.example.com/tags/%D1%82%D0%B5%D0%B32/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Тег3</title>
+      <link>https://www.example.com/tags/%D1%82%D0%B5%D0%B33/</link>
+      <pubDate>Mon, 01 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>https://www.example.com/tags/%D1%82%D0%B5%D0%B33/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
