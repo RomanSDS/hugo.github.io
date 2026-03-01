@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Categories on D.NotReadyYet</title>
-    <link>https://www.example.com/categories/</link>
+    <link>https://romansds.github.io/hugo.github.io/categories/</link>
     <description>Recent content in Categories on D.NotReadyYet</description>
     <generator>Hugo -- 0.155.3</generator>
     <language>ru-RU</language>
     <lastBuildDate>Mon, 01 Apr 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://www.example.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://romansds.github.io/hugo.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Arduino</title>
-      <link>https://www.example.com/categories/arduino/</link>
+      <link>https://romansds.github.io/hugo.github.io/categories/arduino/</link>
       <pubDate>Mon, 01 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.example.com/categories/arduino/</guid>
+      <guid>https://romansds.github.io/hugo.github.io/categories/arduino/</guid>
       <description></description>
     </item>
   </channel>

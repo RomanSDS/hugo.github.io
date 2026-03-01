@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Arduino on D.NotReadyYet</title>
-    <link>https://www.example.com/tags/arduino/</link>
+    <link>https://romansds.github.io/hugo.github.io/tags/arduino/</link>
     <description>Recent content in Arduino on D.NotReadyYet</description>
     <generator>Hugo -- 0.155.3</generator>
     <language>ru-RU</language>
     <lastBuildDate>Tue, 03 Feb 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://www.example.com/tags/arduino/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://romansds.github.io/hugo.github.io/tags/arduino/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>My</title>
-      <link>https://www.example.com/posts/my/</link>
+      <link>https://romansds.github.io/hugo.github.io/posts/my/</link>
       <pubDate>Tue, 03 Feb 2026 00:00:00 +0000</pubDate>
-      <guid>https://www.example.com/posts/my/</guid>
+      <guid>https://romansds.github.io/hugo.github.io/posts/my/</guid>
       <description>&lt;h1 id=&#34;мой-первы-пост&#34;&gt;Мой первы пост.&lt;/h1&gt;
 &lt;p&gt;Однозначно все будет&lt;/p&gt;
 &lt;div class=&#34;highlight&#34;&gt;&lt;div style=&#34;color:#ebdbb2;background-color:#282828;-moz-tab-size:4;-o-tab-size:4;tab-size:4;-webkit-text-size-adjust:none;&#34;&gt;
@@ -51,9 +51,9 @@
     </item>
     <item>
       <title>Пример еще один</title>
-      <link>https://www.example.com/posts/arduino/blink/</link>
+      <link>https://romansds.github.io/hugo.github.io/posts/arduino/blink/</link>
       <pubDate>Mon, 01 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.example.com/posts/arduino/blink/</guid>
+      <guid>https://romansds.github.io/hugo.github.io/posts/arduino/blink/</guid>
       <description>&lt;p&gt;diffhdffggfg
 fgfjgjfhjjggf&lt;/p&gt;
 &lt;h1 id=&#34;kfkjgfkojgfkjgkfjgkjfk&#34;&gt;kfkjgfkojgfkjgkfjgkjfk&lt;/h1&gt;
